@@ -12,8 +12,6 @@ class App extends Component {
       <>
         <Navbar />
         <CoverLayout />
-
-
         <AboutLayout />
         <ContactLayout />
         <FooterLayout />
